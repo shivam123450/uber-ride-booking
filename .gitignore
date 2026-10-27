@@ -1,0 +1,21 @@
+﻿# Java build files
+**/target/
+**/build/
+# IDE files
+.idea/
+**/.idea/
+*.iml
+*.ipr
+*.iws
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+# Logs
+*.log
+# Duplicate archives; source code is already extracted
+*.zip
+
+# Operating system files
+desktop.ini
+.DS_Store
